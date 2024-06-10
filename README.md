@@ -1,5 +1,5 @@
-This repository contains the code, dataset, and research paper related to our research analysis on campus placement in India. We utilized a dataset from Kaggle and applied various data visualization techniques to analyze the data. Our goal was to identify patterns and relationships between different factors influencing campus placements.
-
+This repository contains the code, dataset, and research paper related to our research analysis on campus placement in India. We utilized a dataset from Kaggle and applied various data visualization techniques to analyze the data. We aimed to identify patterns and relationships between different factors influencing campus placements.
+Link to code: https://colab.research.google.com/drive/1TsVI76pANmzXnK3nDkWC7T5vIKCIiHC_?usp=sharing
 ## Research Team
 
 - Tejansh Sachdeva
@@ -16,6 +16,6 @@ This repository contains the code, dataset, and research paper related to our re
 
 ## Contributing
 
-If you find any issues, have suggestions, or want to contribute to our research, feel free to open an issue or submit a pull request.
+Please copy the Google Collab notebook if you have any issues or suggestions or want to contribute to our research.
 
 Happy coding!
